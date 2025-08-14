@@ -1,3 +1,4 @@
+![Architecture Diagram](WebApplication.png)
 # Deploying VProfile Multi-Tier Web Application on a Local Machine
 
 ## 📖 Project Overview
